@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search_hint">Mau cari siapa?</string>
+    <string name="name_user">Nama User</string>
+    <string name="username">Username</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="searchbar">searchBar</string>
+    <string name="favorite">Favorite</string>
+    <string name="Setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="favorite_button">favorite button</string>
+</resources>
